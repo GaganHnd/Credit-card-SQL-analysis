@@ -36,10 +36,4 @@ Perfect for roles in **Analytics, Fintech, and Fraud Detection**.
 
 ---
 
-## 📊 Resume-Ready Description
-**Credit Card Transactions SQL Analysis**  
-- Built a relational database with **Customers, Transactions, and Payments** tables.  
-- Wrote **SQL queries** for fraud detection (anomalies, duplicate transactions), spending insights, and credit risk monitoring.  
-- Delivered insights on **fraud patterns, top spenders, and delinquent customers**.  
 
-**Tech:** SQL (Joins, Window Functions, Aggregations), Tableau/Power BI.
