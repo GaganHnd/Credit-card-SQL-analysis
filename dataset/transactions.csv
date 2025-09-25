@@ -1,0 +1,6 @@
+txn_id,customer_id,txn_date,amount,category,location
+101,1,2025-09-01,5000,Electronics,Bangalore
+102,1,2025-09-02,100,Food,Chennai
+103,2,2025-09-02,20000,Travel,Dubai
+104,3,2025-09-03,300,Food,Delhi
+105,3,2025-09-03,300,Food,Delhi
